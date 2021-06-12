@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    width: 100%;
+}
+
+
+.navbar{
+    display: flex;
+    width: 100%
+}
+
+.navitem{
+    display: flex;
+   
+    padding: 20px 0;
+    margin-right: 50px;
+}
+p{
+ padding: 0;
+ margin: 0;
+ color: white;
+}
+.fa{
+    color: violet;
+    padding-right: 15px;
+}
+
+

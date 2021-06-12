@@ -1,0 +1,48 @@
+.main {
+    display: flex;
+    margin: 80px 250px;
+    font-size: 80px;
+    font-family: Arial Black;
+}
+
+.element1 {
+        color: rgb(28, 131, 235);
+        /* padding-right: 10px; */
+}
+.element2 {
+    color: rgb(28, 202, 65);
+    margin-left: 74px;
+    opacity: 0.8;
+    position: absolute;
+}
+.element3 {
+    color: rgb(218, 205, 33);
+    margin-left: 45px;
+}
+.element4 {
+    color: rgb(175, 30, 194);
+    margin-left: 230px;
+    opacity: 0.8;
+    position: absolute;
+}
+.element5 {
+    color: rgb(253, 114, 0);
+    margin-left: 50px;
+}
+.element6 {
+    color: rgb(218, 33, 125);
+    margin-left: 415px;
+    opacity: 0.8;
+    position: absolute;
+}
+.element7 {
+    color: rgb(28, 131, 235);
+    margin-left: 480px;
+    opacity: 0.8;
+    position: absolute;
+    
+}
+.element8{
+    color: rgb(218, 205, 33);
+    margin-left: 120px;
+}

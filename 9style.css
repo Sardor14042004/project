@@ -1,0 +1,42 @@
+body{
+   
+    background-color: rgb(87, 87, 87);
+}
+.navbar{
+    display: flex;
+}
+.item1{
+    color: white;
+    animation: item 1s infinite; 
+       
+}
+
+@keyframes item{
+    to{
+        color: black;
+    }
+}
+.main{
+    display: flex;
+}
+.menu1{
+    color: white;
+
+}
+.menu2{
+    color: white;
+}
+.menu3{
+    color: white;
+}
+
+.menu1 p {
+    margin-top: -18px;
+
+}
+.menu2 p{
+    margin-top: -18px;
+}
+.menu3 p{
+    margin-top: -18px;
+}
